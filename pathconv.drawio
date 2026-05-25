@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="2LADlyf4JBiEzu5A49ws">
-    <mxGraphModel dx="1110" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1325" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1691,11 +1691,11 @@
         <mxCell id="izxcC9k4oiVcHyZPnSEI-39" parent="izxcC9k4oiVcHyZPnSEI-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="$$I_3$$" vertex="1">
           <mxGeometry height="30" width="60" x="430" y="455" as="geometry" />
         </mxCell>
-        <mxCell id="izxcC9k4oiVcHyZPnSEI-40" parent="izxcC9k4oiVcHyZPnSEI-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="轮空" vertex="1">
-          <mxGeometry height="30" width="50" x="300" y="300" as="geometry" />
+        <mxCell id="izxcC9k4oiVcHyZPnSEI-40" parent="izxcC9k4oiVcHyZPnSEI-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="skip" vertex="1">
+          <mxGeometry height="30" width="40" x="305" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="izxcC9k4oiVcHyZPnSEI-41" parent="izxcC9k4oiVcHyZPnSEI-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="轮空" vertex="1">
-          <mxGeometry height="30" width="50" x="320" y="270" as="geometry" />
+        <mxCell id="izxcC9k4oiVcHyZPnSEI-41" parent="izxcC9k4oiVcHyZPnSEI-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="skip" vertex="1">
+          <mxGeometry height="30" width="40" x="325" y="270" as="geometry" />
         </mxCell>
         <mxCell id="izxcC9k4oiVcHyZPnSEI-42" edge="1" parent="izxcC9k4oiVcHyZPnSEI-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=11.337868480725623;endSize=3.363461538461538;width=4.615384615384615;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fillColor=#EDEDED;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1766,11 +1766,11 @@
         <mxCell id="izxcC9k4oiVcHyZPnSEI-60" parent="izxcC9k4oiVcHyZPnSEI-1" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="320" y="108" as="geometry" />
         </mxCell>
-        <mxCell id="izxcC9k4oiVcHyZPnSEI-61" parent="izxcC9k4oiVcHyZPnSEI-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="路径下的卷积" vertex="1">
-          <mxGeometry height="30" width="110" x="300" y="530" as="geometry" />
+        <mxCell id="izxcC9k4oiVcHyZPnSEI-61" parent="izxcC9k4oiVcHyZPnSEI-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Meta-path Convolution" vertex="1">
+          <mxGeometry height="30" width="140" x="266" y="530" as="geometry" />
         </mxCell>
         <mxCell id="izxcC9k4oiVcHyZPnSEI-62" connectable="0" parent="izxcC9k4oiVcHyZPnSEI-1" style="group" value="" vertex="1">
-          <mxGeometry height="20" width="110" x="200" y="535" as="geometry" />
+          <mxGeometry height="20" width="110" x="159" y="535" as="geometry" />
         </mxCell>
         <mxCell id="izxcC9k4oiVcHyZPnSEI-63" edge="1" parent="izxcC9k4oiVcHyZPnSEI-62" source="izxcC9k4oiVcHyZPnSEI-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" target="izxcC9k4oiVcHyZPnSEI-66">
           <mxGeometry relative="1" as="geometry" />
@@ -1794,7 +1794,7 @@
           <mxGeometry height="20" width="20" x="90" as="geometry" />
         </mxCell>
         <mxCell id="izxcC9k4oiVcHyZPnSEI-70" connectable="0" parent="izxcC9k4oiVcHyZPnSEI-1" style="group" value="" vertex="1">
-          <mxGeometry height="30" width="102" x="49" y="332" as="geometry" />
+          <mxGeometry height="30" width="110" x="49" y="332" as="geometry" />
         </mxCell>
         <mxCell id="izxcC9k4oiVcHyZPnSEI-71" edge="1" parent="izxcC9k4oiVcHyZPnSEI-70" source="izxcC9k4oiVcHyZPnSEI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="izxcC9k4oiVcHyZPnSEI-73">
           <mxGeometry relative="1" as="geometry" />
@@ -1805,8 +1805,8 @@
         <mxCell id="izxcC9k4oiVcHyZPnSEI-73" parent="izxcC9k4oiVcHyZPnSEI-70" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#49B2C7;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="28" y="4" as="geometry" />
         </mxCell>
-        <mxCell id="izxcC9k4oiVcHyZPnSEI-74" parent="izxcC9k4oiVcHyZPnSEI-70" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="卷积层" vertex="1">
-          <mxGeometry height="30" width="60" x="42" as="geometry" />
+        <mxCell id="izxcC9k4oiVcHyZPnSEI-74" parent="izxcC9k4oiVcHyZPnSEI-70" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Conv Layer" vertex="1">
+          <mxGeometry height="30" width="68" x="51" as="geometry" />
         </mxCell>
         <mxCell id="izxcC9k4oiVcHyZPnSEI-75" connectable="0" parent="izxcC9k4oiVcHyZPnSEI-1" style="group" value="" vertex="1">
           <mxGeometry height="30" width="92.25" x="69" y="300" as="geometry" />
@@ -1865,8 +1865,8 @@
             <mxPoint x="340" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="izxcC9k4oiVcHyZPnSEI-93" parent="izxcC9k4oiVcHyZPnSEI-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="轮空" vertex="1">
-          <mxGeometry height="30" width="50" x="340" y="240" as="geometry" />
+        <mxCell id="izxcC9k4oiVcHyZPnSEI-93" parent="izxcC9k4oiVcHyZPnSEI-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="skip" vertex="1">
+          <mxGeometry height="30" width="40" x="345" y="240" as="geometry" />
         </mxCell>
         <mxCell id="izxcC9k4oiVcHyZPnSEI-94" edge="1" parent="izxcC9k4oiVcHyZPnSEI-1" source="izxcC9k4oiVcHyZPnSEI-17" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=11.337868480725623;endSize=3.363461538461538;width=4.615384615384615;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fillColor=#EDEDED;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -3070,7 +3070,7 @@
           <mxGeometry height="30" width="250" x="2275" y="910.5" as="geometry" />
         </mxCell>
         <mxCell id="izxcC9k4oiVcHyZPnSEI-376" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Rec&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Prediction&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="2636" y="907" as="geometry" />
+          <mxGeometry height="30" width="110" x="2636" y="906" as="geometry" />
         </mxCell>
         <mxCell id="izxcC9k4oiVcHyZPnSEI-377" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="30" width="68.75" x="1631.25" y="1285.5" as="geometry" />
